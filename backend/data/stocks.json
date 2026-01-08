@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "ticker": "VIV.PA",
+      "name": "Vivendi",
+      "sector": "Médias",
+      "price": 2.36,
+      "change": 0.26,
+      "currency": "EUR",
+      "marketCap": "2.4B €",
+      "timestamp": "2026-01-08T21:18:58.481832"
+    },
+    {
+      "ticker": "TFI.PA",
+      "name": "TF1",
+      "sector": "TV",
+      "price": 8.14,
+      "change": -1.57,
+      "currency": "EUR",
+      "marketCap": "1.7B €",
+      "timestamp": "2026-01-08T21:18:58.488434"
+    },
+    {
+      "ticker": "MMT.PA",
+      "name": "M6 Métropole",
+      "sector": "TV",
+      "price": 11.88,
+      "change": -1.49,
+      "currency": "EUR",
+      "marketCap": "1.5B €",
+      "timestamp": "2026-01-08T21:18:58.467941"
+    },
+    {
+      "ticker": "PUB.PA",
+      "name": "Publicis",
+      "sector": "Publicité",
+      "price": 87.08,
+      "change": -0.66,
+      "currency": "EUR",
+      "marketCap": "21.8B €",
+      "timestamp": "2026-01-08T21:18:58.589342"
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix",
+      "sector": "Streaming",
+      "price": 90.42,
+      "change": -3.57,
+      "currency": "USD",
+      "marketCap": "38.9B $",
+      "timestamp": "2026-01-08T21:18:58.427518"
+    },
+    {
+      "ticker": "DIS",
+      "name": "Disney",
+      "sector": "Entertainment",
+      "price": 114.52,
+      "change": 0.66,
+      "currency": "USD",
+      "marketCap": "206.1B $",
+      "timestamp": "2026-01-08T21:18:58.489350"
+    },
+    {
+      "ticker": "WBD",
+      "name": "Warner Bros Discovery",
+      "sector": "Entertainment",
+      "price": 28.36,
+      "change": -1.61,
+      "currency": "USD",
+      "marketCap": "68.1B $",
+      "timestamp": "2026-01-08T21:18:58.460639"
+    },
+    {
+      "ticker": "PARA",
+      "name": "Paramount",
+      "sector": "Entertainment",
+      "price": 11.2,
+      "change": -1.2,
+      "marketCap": "7.3B $",
+      "currency": "USD",
+      "timestamp": "2026-01-08T21:18:58.420180"
+    }
+  ],
+  "updated_at": "2026-01-08T21:18:58.589739"
+}

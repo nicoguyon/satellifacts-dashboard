@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "film": "Mufasa: Le Roi Lion",
+      "distributor": "Disney",
+      "weekRevenue": 5850000,
+      "totalRevenue": 42300000,
+      "entries": 680000,
+      "weeks": 4
+    },
+    {
+      "rank": 2,
+      "film": "Sonic 3, le film",
+      "distributor": "Paramount",
+      "weekRevenue": 4200000,
+      "totalRevenue": 28500000,
+      "entries": 520000,
+      "weeks": 3
+    },
+    {
+      "rank": 3,
+      "film": "Vaiana 2",
+      "distributor": "Disney",
+      "weekRevenue": 2890000,
+      "totalRevenue": 85200000,
+      "entries": 380000,
+      "weeks": 7
+    },
+    {
+      "rank": 4,
+      "film": "Nosferatu",
+      "distributor": "Universal",
+      "weekRevenue": 2450000,
+      "totalRevenue": 8900000,
+      "entries": 290000,
+      "weeks": 2
+    },
+    {
+      "rank": 5,
+      "film": "Kraven the Hunter",
+      "distributor": "Sony",
+      "weekRevenue": 1850000,
+      "totalRevenue": 6200000,
+      "entries": 220000,
+      "weeks": 2
+    },
+    {
+      "rank": 6,
+      "film": "Wicked",
+      "distributor": "Universal",
+      "weekRevenue": 1620000,
+      "totalRevenue": 45800000,
+      "entries": 195000,
+      "weeks": 6
+    },
+    {
+      "rank": 7,
+      "film": "Un p'tit truc en plus",
+      "distributor": "Gaumont",
+      "weekRevenue": 980000,
+      "totalRevenue": 112000000,
+      "entries": 125000,
+      "weeks": 32
+    },
+    {
+      "rank": 8,
+      "film": "Gladiator II",
+      "distributor": "Paramount",
+      "weekRevenue": 750000,
+      "totalRevenue": 52400000,
+      "entries": 92000,
+      "weeks": 8
+    },
+    {
+      "rank": 9,
+      "film": "L'Amour ouf",
+      "distributor": "Pathé",
+      "weekRevenue": 620000,
+      "totalRevenue": 38500000,
+      "entries": 78000,
+      "weeks": 12
+    },
+    {
+      "rank": 10,
+      "film": "Le Comte de Monte-Cristo",
+      "distributor": "Pathé",
+      "weekRevenue": 450000,
+      "totalRevenue": 98700000,
+      "entries": 58000,
+      "weeks": 28
+    }
+  ],
+  "updated_at": "2026-01-08T21:18:58.826275"
+}
